@@ -35,3 +35,7 @@ git status
 touch aweesome_page.md
 - create a file names awesome_page.md
 cd phase-0-gps-1/
+
+
+These are your guides changes!!!!!!!
+====================================
