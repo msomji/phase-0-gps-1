@@ -44,3 +44,5 @@ these changes are for new_branch
 
 
 merge conflict
+
+guide's conflicts
