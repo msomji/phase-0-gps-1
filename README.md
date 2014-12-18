@@ -41,3 +41,6 @@ These are your guides changes!!!!!!!
 ====================================
 
 these changes are for new_branch
+
+
+merge conflict
